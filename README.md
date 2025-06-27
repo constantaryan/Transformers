@@ -18,10 +18,4 @@ This repository contains a complete, from-scratch reimplementation of the legend
 - Trained on a simple **character-level toy dataset** for easy visualization and debugging.
 
 ---
-## 🚀 How to Run
 
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
